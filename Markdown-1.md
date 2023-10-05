@@ -2,10 +2,10 @@
 
 Когда пишешь код, легко что-то сломать или испортить. Чтобы этого избежать, используют системы контроля версий для хранения истории версий кода. Git ― один из вариантов такой системы.
 
- [Что такое Git](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#chto-takoe)
- [Принципы работы с Git](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#principy-raboty)
- [Начало работы с Git: установка и настройка](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#ustanovka-i-nastroyka)
- [Что такое репозиторий Git](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#chto-takoe-repozitoriy)
+ * [Что такое Git](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#chto-takoe)
+ * [Принципы работы с Git](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#principy-raboty)
+ * [Начало работы с Git: установка и настройка](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#ustanovka-i-nastroyka)
+ * [Что такое репозиторий Git](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/#chto-takoe-repozitoriy)
 
 # Что такое Git
 
